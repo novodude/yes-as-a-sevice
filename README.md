@@ -6,7 +6,9 @@ This fabulous API serves up random, witty, and unapologetically enthusiastic aff
 Think of it as revenge for all those times the world said "no" — your very own [No-as-a-Service](https://naas.isalman.dev/no) nemesis, but make it sparkle.
 
 Built for humans, confidence, and unapologetic joy.
-
+<p align="center">
+  <img src="assets/imgs/yaas.jpg" width="800" />
+</p>
 ---
 
 ## 🚀 API Usage
@@ -88,6 +90,10 @@ yes-as-service/
 
 ---
 
+<p align="center">
+  <img src="assets/imgs/yes-as-a-service.jpg" width="800" />
+</p>
+
 ## 📦 package.json
 
 ```json
@@ -125,3 +131,8 @@ Crafted with sass, sparkle, and contagious optimism by [novodude](https://github
 ## 📄 License
 
 MIT — do whatever, but always remember to say **yaaas queen** when the situation calls for it.
+
+
+<p align="center">
+  <img src="assets/imgs/image.png" width="800" />
+</p>
