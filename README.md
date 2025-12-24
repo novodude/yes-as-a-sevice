@@ -9,6 +9,7 @@ Built for humans, confidence, and unapologetic joy.
 <p align="center">
   <img src="assets/imgs/yaas.jpg" width="800" />
 </p>
+
 ---
 
 ## 🚀 API Usage
