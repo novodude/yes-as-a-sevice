@@ -13,31 +13,6 @@ Built for humans, confidence, and unapologetic joy.
 
 ---
 
-## 🚀 API Usage
-
-**Base URL (placeholder)**
-
-```
-still didn't debloy yet
-```
-
-**Method:** `GET`
-**Rate Limit:** `120 requests per minute per IP`
-
-### 🔄 Example Request
-
-```http
-GET /yes
-```
-
-### ✅ Example Response
-
-```json
-{
-  "response": "Absolutely! Go for it, future you will thank present you. Yaaas queen! 💅"
-}
-```
-
 Use it in apps, bots, landing pages, Slack integrations, motivational messages, or wherever you need a sparkling, unshakable yes.
 
 ---
