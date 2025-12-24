@@ -68,7 +68,7 @@ yes-as-service/
 ---
 
 <p align="center">
-  <img src="assets/imgs/yes-as-a-service.jpg" width="800" />
+  <img src="assets/imgs/Yes-as-a-service.jpg" width="800" />
 </p>
 
 ## 📦 package.json
