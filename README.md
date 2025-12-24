@@ -110,5 +110,5 @@ Crafted with sass, sparkle, and contagious optimism by [novodude](https://github
 MIT — do whatever, but always remember to say **yaaas queen** when the situation calls for it.
 
 <p align="center">
-  <img src="assets/imgs/image.png" width="800" />
+  <img src="assets/imgs/image.jpg" width="800" />
 </p>
